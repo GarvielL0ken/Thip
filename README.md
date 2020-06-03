@@ -1,2 +1,2 @@
 # Thip
-A Program for data compression similiar to WinZIP
+A program for data compression similiar to WinZIP
